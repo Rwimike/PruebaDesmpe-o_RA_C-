@@ -1,10 +1,10 @@
 # 🏥 San Vicente Hospital — Medical Appointment Management System
 
 ## 👨‍💻 Developer Information
-- **Name:** Miguel Ángel (Migue)
-- **Clan:** Be a CoderNN  
-- **Email:** migue.coder@example.com  
-- **ID Document:** 123456789  
+- **Name:** Miguel Ángel Lopera Muñoz
+- **Clan:** C#  
+- **Email:** miguerwi@example.com  
+- **ID Document:** 1011392963  
 
 ---
 
